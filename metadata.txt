@@ -1,0 +1,4 @@
+displayname=Jumpson
+author=iaih
+description=This mod makes Karlson jump nearly 3x as far, including from walls.
+deps=
